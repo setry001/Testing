@@ -1,0 +1,7865 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6416,63.1752 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Abc-Boken 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Adeln 22 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Administrativa kostnadsställen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5295,59.6218 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Adrian 11 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Äggsvampen 1 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Åkaren 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0428,55.6109 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Åkermyntan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Akvarellen 10 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Älgholmen 1 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0539,59.8755 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Almunge Prästgård 1:59"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ålsta 1:9 o 3:28 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Älta 100:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Älta 47:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.197,59.2617 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Älta 61:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7046,56.0387 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Amerika Norra 50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7049,56.0372 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Amerika Södra 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Anden 8 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3634,56.6632 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Apotekaren 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7005,59.8569 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Årsta 106:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Årsta 78:3 (såld 140114)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7091,59.863 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Årsta 93:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.687,59.8615 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Årsta 96:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Artigheten 1 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ärtsinglet 4 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Åsen 15 (såld 21-08-31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7083,56.0638 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ask 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bäckaskiftet 10 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Backen 8:14 (såld 120424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7376,63.156 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bakplåten 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1929,65.5745 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Balder 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7075,56.0817 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Balgripen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bälinge-Ekeby 12:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.547,59.952 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bälinge-Ekeby 14:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bällsta 2:827 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Barkaröby 15:298 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1689,58.5709 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bärnstenen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7295,56.0606 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Barrikaden 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2574,63.8289 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Båtsmannen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7295,56.0606 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7279,56.0596 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7295,56.0606 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7295,56.0606 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Batteriet 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3547,56.6639 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Beckasinen 34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3531,56.664 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Beckasinen 43"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9592,59.2699 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Beckasinen 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berga 6:76 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bergskvadraten 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.152,65.6066 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bergviken 5:40"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5526,59.8556 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berthåga 38:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5514,59.8552 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berthåga 43:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5524,59.8536 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berthåga 48:6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berthåga 60:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5557,59.8513 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Berthåga 60:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5615,60.022 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björklinge-Tibble 2:8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5606,60.0204 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björklinge-Tibble 2:9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björklinge-Tibble 5:52"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björknäs 1:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2299,59.3174 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björknäs 1:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Björknäs 1:442"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8523,56.6707 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Blåregnet 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Blockavtal Bolag 313"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bo 12:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.267,59.3209 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bo 8:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7049,56.0394 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Böhmen 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7012,56.0417 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bollbro 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bommen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6426,63.1755 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bönboken 4 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8432,56.6697 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bonden 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bostäder Mälardalen"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bostäder Norra Sverige"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bostäder Södra Sverige."
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.219,55.6424 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brågarp 6:879"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brandliljan 5 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brandstoden 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brandvakten 5 (såld 181219)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brandvakten 5 (såld 181219)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7172,59.6208 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brännbo 1:29 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3563,56.6654 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Braxen 15 (såld 230616)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brigaden 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brigaden 7 och 8 (såld 170426)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brödspaden 6 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brönnestad 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0261,55.5989 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brönnestad 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.987,58.7531 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brudslöjan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.9876,58.753 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Brudslöjan 3 (paketerad 160831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Burmanstorp 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.108,59.2415 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Burmanstorp 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.102,59.2454 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Burmanstorp 1 (Vitsand)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6513,59.8427 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Byggnader på Kronåsen 1:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6513,59.8427 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Byggnader på Kronåsen 1:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Bysten 1 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7064,56.028 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Carnot 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9636,55.5896 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Cellon 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5658,59.7611 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dalby 11:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6275,59.1841 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Daldockan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Degskrapan 2 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"del av Orminge 46:1 (såld 201001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2575,59.3271 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Del av Orminge 46:1 (såld 211214)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5516,59.6078 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dingtuna Kyrkby 1:15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5516,59.6078 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dingtuna Kyrkby 1:16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5516,59.6078 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dingtuna Kyrkby 1:19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Div. fast. Brödspaden (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Diverse fastigheter LSS sålt 161215"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Diverse fastigheter LSS, 5 st sålt"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1956,58.5905 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Djäkneberget 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dobben 1 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2104,58.5696 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Dörren 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3538,56.6661 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Duvan 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.253,63.8184 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Duvhöken 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Duvhöken 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eddaskolan (såld 130704)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eds Prästgård 1:81 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eds Prästgård 1:92 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ekebyhov 1:547 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.798,56.6545 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eketånga 6:658 (såld 210831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eketånga 6:658 (såld 210831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ekhammar 4:405 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ekhammar 4:408 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8345,59.6265 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ekilla 4:19 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8329,59.6264 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ekilla 6:125 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eldsberga 6:13 (såld 2021-08-31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eldsberga 6:13 (såld 2021-08-31)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6342,59.2031 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Elefanten 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7255,56.0286 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Elineberg 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7238,56.0289 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Elineberg 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ellsta 2:72"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6542,63.1655 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Elritsan 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7067,56.0414 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eneborg 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.707,56.0415 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eneborg 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7075,56.0414 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eneborg 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8401,56.687 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Enheten 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Enkelstugan 25 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5989,59.8413 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 11:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 12:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6039,59.8429 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 15:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6053,59.8427 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 17:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 17:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 38:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 39:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6056,59.8431 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 4:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6129,59.8448 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Eriksberg 9:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Erstavik 26:245"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2466,59.293 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Erstavik 26:245"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Etern 4 (såld 120424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9677,59.3052 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fader Bergström 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fader Bergström 1 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 15:2 (såld 160630)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 22:5 (såld 160829)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 22:5 Såld 150907"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 3:1 (såld 190502)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6493,59.8632 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 6:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fålhagen 6:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6333,63.1774 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Färgaren 2 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6081,59.2079 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fasanen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4963,59.6231 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fatburen 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"fd Gredelby (såld 121031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fiktiv fastighet Bostäder"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fiktiv fastighet Samhällsfastighet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Filaren 12 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Filaren 12 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Filaren 5 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Filaren 5 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Filen 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fiskgjusen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2477,63.8202 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjällämmeln 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjällglimmen 2 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 12 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 13 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7092,56.0432 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 14 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 16 (såld 20210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 17 (såld 20210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 19 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fjärilen 9 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.348,56.7035 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flintan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6065,59.8508 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flogsta 17:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flogsta 23:5 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6101,59.8522 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flogsta 34:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7541,63.1538 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flossamattan 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3309,63.8437 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flyttfågeln 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3323,63.843 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flyttfågeln 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3302,63.8428 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Flyttfågeln 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2135,58.5678 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fönstret 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6447,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Förskinnet 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Försommaren 1 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frånträtt resultat bolag 635"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frånträtt resultat bolag 636"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frånträtt resultat bolag 637"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frånträtt resultat bolag 643"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frånträtt resultat bolag 644"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4924,59.6074 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fredriksberg 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7057,56.0669 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frigg 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frigg 1 - Parkering (används ej)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6659,63.1633 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Frigg 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Fyrtornet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6408,59.8736 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"GA garage, Kvarngärdet 5:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.651,59.8916 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gamla Uppsala 21:80"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6406,59.8917 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gamla Uppsala 47:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6498,59.8876 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gamla Uppsala 94:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6491,59.8928 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gamla Uppsala 97:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Garagek. Jorden 1 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Garagek.Försommaren 1 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Garaget Bonden 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 64:1 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:1 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:15 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:24 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:3 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:4 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:5 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gårda 69:6 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.748,56.0968 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gärdet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2775,63.8369 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gärdet 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2763,63.8368 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gärdet 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0172,58.754 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Garvaren 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0172,58.754 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Garvaren 1 (paketerad 160831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8744,59.9452 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gåvsta 2:36"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8767,59.9453 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gåvsta 2:37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.746,56.8204 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Getinge 5:26 (såld 210831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7058,56.041 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Getingen 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7058,56.041 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Getingen 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5849,59.5994 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gippen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gk.Sannegården 28:31 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Glasberga 1:133"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3501,56.7038 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gnejsen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1786,58.587 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Godvän 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1941,58.5875 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Godvän 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1751,58.5866 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Godvän 28"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Göta 2 (såld 171031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6138,59.8147 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gottsunda 32:6 (såld 230428)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6255,59.8086 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gottsunda 34:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6125,59.8069 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gottsunda 48:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6056,59.8051 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gottsunda 49:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6684,59.8731 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 19:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.667,59.873 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 19:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 19:6 (såld 161118)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 6:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6545,59.8713 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 6:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6568,59.8728 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 6:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6529,59.873 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 6:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6529,59.873 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 6:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 7:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 7:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6584,59.8745 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 7:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 7:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 8:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 8:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6594,59.8764 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 8:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 9:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 9:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6529,59.873 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 9:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gränby 9:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gredelby 7:83 (såld 141130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gredelby 7:91 (1) - bostäder"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gredelby 7:91 (2,3) - äldreboende"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gruvan 16 (såld 160930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6981,56.0587 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Guldsmeden 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gulmåran 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Gunnar 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1798,56.5573 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hagby 12:42"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2079,58.5676 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hålet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1074,57.945 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Häljered 2:75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6994,59.6265 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hällsboskolan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hammar 1:11 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6963,56.0567 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hammaren 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6166,63.1857 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Handlanden 3 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2467,63.8212 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Handlaren 20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0942,55.6057 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Handskfacket 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6988,56.0588 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hantverkaren 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Härbärget 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Härjedalen 3 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6485,63.1692 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Harren 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.623,59.1939 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hasseln 4 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.6163,59.5871 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hässlö 5:6 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hastighetsmätaren 6 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Havsörnen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Häxan 3 (såld 170628)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7299,56.0282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Herden 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Herkules 1 (såld 140129)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hermes 4 (såld 151006)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hjärpen 7 (fr 392) (såld 131210)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hjärpen 7 (såld 131209)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Högalid 69 (såld 120424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7105,59.6208 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Höken 2 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hubbo-Kvistberga 1:23 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hubbo-Sörby 15:9 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Humlegården 15 (såld 150707)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7169,59.6156 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Humlegården 17 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7299,56.0282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Huslyckan 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hyacinten 1 & 2 (såld 131209)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6465,63.172 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hyacinten 10, 12, 13, 15, 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2784,63.8411 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hygget 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2763,63.8401 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Hygget 75"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.6072,58.4003 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Idrottsplatsen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2904,59.2909 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Igelboda 46:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2733,59.2866 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Igelboda 54:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2405,63.8226 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ingenjören 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0179,55.5937 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Insjön 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.255,63.828 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jägaren 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2552,63.8274 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jägaren 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jägaren 6 (såld 151130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jägaren 9 (såld 151130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jägaren 9 (såld 151130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0102,55.5911 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jagten 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2789,63.8219 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Järven 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.28,63.8219 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Järven 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1265,59.2824 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jordbruksministern 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jorden 1 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.363,63.7096 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jungmannen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Juno 2 & 3 (såld 140129)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jupiter 5 ()såld 160930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Jupiter 7 & Venus 1 (såld 160930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kålhagen 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.343,56.7067 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kalkstenen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3479,56.7085 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kalkstenen 22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1566,65.6016 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kallkällan 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3384,56.6797 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kalmar Bärnstenen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kaninholmen 1 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kapellet 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.698,56.0547 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kapellet 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6994,56.0549 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kapellet 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6969,56.0526 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kaplanen 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1739,58.5924 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karbinen 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2035,58.5819 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kardusen 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.698,56.0454 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karl XI Norra 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6985,56.0454 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karl XI Södra 20"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6981,56.0452 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karl XI Södra 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5138,59.606 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karlavagnen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6046,59.2093 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karlberga 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.9344,56.5693 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Karlslunda-Fagerhult 1:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kastanjen 2 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kastanjen 2 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0171,58.733 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kaveldunet 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.0171,58.733 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kaveldunet 2 (paketerad 160831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.198,58.5844 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kolonien 11, 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kolonien 11, 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7299,56.0282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Köpingelyckan 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7299,56.0282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Köpingelyckan 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1794,58.5874 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kopparkypen 30"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Korpen 11 (såld 131209)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3532,56.667 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Korpen 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kraftledningen mfl (såld 141001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.107,65.6054 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kristallen 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1865,65.5972 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kronan 1:221"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6504,59.8423 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kronåsen 1:29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6506,59.8436 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kronåsen 1:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5481,59.6301 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kronhjorten 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2953,56.7324 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kroppkakan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3383,63.8599 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krukan 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1819,58.5913 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krukan 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.8787,56.6728 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krusbäret 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krusbärsbusken 2 såld 150129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krusbärsbusken 3 såld 150129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1589,58.599 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krusmyntan 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Krutbacken 1 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kummelnäs 27:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7261,59.4877 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kungsängens-Tibble 1:653"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7245,59.4879 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kungsängens-Tibble 1:654"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.941,55.5839 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kungsfågeln 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2012,57.3956 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6423,59.874 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6423,59.874 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6423,59.874 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 4:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 45:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6558,59.8694 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 46:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 47:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 5:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 5:3 (såld 190430)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6407,59.8702 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 5:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6408,59.8736 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 5:5, ga garage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 52:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 53:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 54:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 55:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 56:13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 56:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 6:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 7:3 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 71:1 (såld 200624)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 71:1 (såld 200624)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 71:2-3 (såld 200701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 71:2-3 (såld 200701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 8:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 9:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Kvarngärdet 9:2 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.056,59.3346 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lagern 6 (såld 221001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Läkaren 125"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2603,59.3099 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lännersta 1:148"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lärkträdet 16 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lärkträdet 16 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.2676,57.7852 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lärlingen 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2852,63.8199 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Laxen 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0848,57.9252 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ledet 1:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0849,57.9254 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ledet 1:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1581,58.6008 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lejongapet 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2538,63.8276 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Leoparden 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2534,63.8282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Leoparden 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5934,59.88 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Librobäck 19:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5905,59.8769 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Librobäck 4:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1676,58.5792 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Linjen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5622,59.0974 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ljungbacken 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1642,56.6356 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ljungby 16:126"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ljuset 1 såld 150129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7282,56.0155 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ljuset 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6215,59.1909 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lönnen 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lönnholmen 1 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Löten 7:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Löten 7:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6548,59.8798 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Löten 7:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.1926,63.8354 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lövsågen 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.1952,63.8349 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lövsågen 37"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lussekatten 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6164,59.866 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 24:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 37:8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:1 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:2 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:2 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:2 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 61:3 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Luthagen 62:5 (såld 130530)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7313,56.7452 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Lyngåkra 3:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3269,56.7138 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Måbäret 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6517,63.1712 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Majsen 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7096,56.0417 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Malen 41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6887,63.1549 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Mangården 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0992,55.5876 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Månstrålen 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.717,56.0383 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Maria 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8406,59.6251 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Märsta 1:186"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8489,59.6256 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Märsta 1:19 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1984,65.5821 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Maskinisten 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2558,63.8289 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Matrosen 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2563,63.8286 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Matrosen 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Medeltiden 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2774,59.3291 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Mensättra 17:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1639,65.5959 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Midskogen 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1144,65.6045 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Mjölkudden 3:51"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1292,65.6003 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Mjölkudden 3:54"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Modet 1 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6417,63.1731 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Motboken 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.6863,59.7468 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Motormannen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Mullvaden 8 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7103,56.0393 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Myran 8 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nadden 1 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9309,56.6441 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nåden 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2416,63.8225 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nämndemannen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7076,56.027 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nässlan 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.707,56.0265 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nässlan 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7079,56.0266 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nässlan 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8981,59.5231 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nedra Runby 1:58 (såld 230801)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2905,59.2863 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Neglinge 13:5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2897,59.2869 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Neglinge 13:6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Neglinge 15:1 (såld 200115)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2102,58.5681 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Niten 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0557,57.8951 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nödinge 2:45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0557,57.8951 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nödinge 2:45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0502,57.8939 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nödinge 38:50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0502,57.8939 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nödinge 38:50"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6185,59.827 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norby 63:33, 63:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norby 63:33, 63:34"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norby 73:4 (såld 150531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.623,59.8237 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norby 90:8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0113,59.3628 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nordan 21(Såld 240831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nordan 23"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nordan 25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7018,56.0396 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norge 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7023,56.0397 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norge 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7023,56.0397 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norge 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:28 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:29 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:30 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:31 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8503,59.6345 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:39 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:40 (såld 130704)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrbacka 1:48 (såld 231002)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5101,60.1009 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Norrvissjö 1:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7094,56.0429 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7096,56.0427 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7097,56.0425 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7092,56.0422 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7091,56.0424 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7089,56.0426 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7089,56.0427 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nunnan 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nybygget 8 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7084,56.0408 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nyckelpigan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7088,56.0411 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nyckelpigan 26"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Nyponet 2 & 3 (såld 141001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7075,56.0405 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ollonborren 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7073,56.0409 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ollonborren 14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ollonborren 32 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6204,59.1958 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ollonborren 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7081,56.0408 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ollonborren 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2482,59.3284 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 34:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 46:1 (såld 201001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 46:2 (såld 201001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 46:2 (såld 201001)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2575,59.3271 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 46:7 (Vårdboende)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orminge 59:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7181,59.6234 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ormvråken 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3259,63.837 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Orrspelet 1, 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Påfågeln 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Påfågeln 1 (ingår i 6931 140630)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pål Ibb 23 (såld 160314)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pål Ibb 25 (såld 160314)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pål Ibb 9 (paketerad) (Såld 141203)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pål Ibb 9 (såld 141203)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Päronträdet 1 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Päronträdet 1 (såld 160601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pastorn 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Persikan (såld 170111)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"P-hus Skulptören"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5706,59.6038 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"P-hus Smugglaren 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5892,59.6199 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pinjen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7126,56.0261 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pinjen 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7116,56.0266 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pinjen 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6498,63.1735 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pionen 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1716,58.5809 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Planen 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Plommonträdet 2 (såld 150129)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1753,58.5925 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pokalen 21"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1754,58.5919 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pokalen 27"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1748,58.5923 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pokalen 29"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.147,65.6221 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Porsön 1:240"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1331,65.6176 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Porsön 1:406"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Protokollet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0033,55.5599 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Puffen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Puman 1 (såld 210630)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5891,59.1932 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Pumpan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rädisan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.73,59.6245 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ragvaldsbo 1:119 (Såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7242,59.6271 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ragvaldsbo 1:186 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7168,59.6263 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ragvaldsbo 1:189"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Räntmästaren 2 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3308,56.6927 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3307,56.6924 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3319,56.6932 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3314,56.6927 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3315,56.6923 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.331,56.693 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rapsen 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rävsta 5:386"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Reflexen 13 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rektorn 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2537,63.8171 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Reparatören 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Repet 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Resmilan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rhenguldet 20 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rickomberga 33:3 (såld 151006)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rimfrosten 1 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.372,56.672 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rodret 4 (såld 230616)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3253,56.7137 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rönnbäret 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rönnen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7114,59.6223 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rördrommen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rosenträdet 3 såld 150129"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.3063,59.2744 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rösunda 45:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2997,59.2805 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rösunda 9:11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7081,56.0458 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rovan 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7095,56.0453 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rovan 14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2488,63.8289 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Rubinen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6988,56.0436 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ruuth 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sädesskäppan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Saknas"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sala Backe 13:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6797,59.863 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sala Backe 25:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Såld fastighet (såld 100930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Såld fastighet (såld 100930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.689,56.0592 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Samson 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6887,56.0591 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Samson 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sandtaget 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sannegården 28:31 (såld 170629)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Särsta 3:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sätra Gård 1 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8516,59.6315 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sätuna 3:12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8573,59.6286 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sätuna 3:201"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8563,59.6313 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sätuna 3:266 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6931,59.8084 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sävja 111:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7026,59.8196 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sävja 59:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6834,59.8225 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sävja 64:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Segelbåten 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Segelbåten 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Serenaden 17 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 103:4 (såld 200115)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1424,59.3092 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 123:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1433,59.3088 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 127:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1997,59.3064 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 226:8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2142,59.3089 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 343:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1988,59.3142 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 352:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.1684,59.3156 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 369:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 373:1 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.207,59.3143 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 375:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2073,59.3133 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sicklaön 73:48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sidöparken (såld 160913)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sidöparken (såld 170615)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sigillbevararen 13 (såld 170330)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sigillbevararen 13 (såld 170330)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7295,59.6199 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sigtuna 2:171"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7252,59.621 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sigtuna 2:247 (240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Siken 24 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Singoalla 45 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sjömärket 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sjudargården 1:17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skäcklinge Gård 11 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9303,59.5189 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skälby 1:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9305,59.5201 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skälby 1:312"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9743,55.613 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skansen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0167,57.8511 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skårdal 1:68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.0159,57.8512 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skårdal 1:68"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7299,56.0282 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skepparlyckan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2054,57.9824 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skepplanda 3:62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2054,57.9824 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skepplanda 3:62"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skogsduvan 3 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7022,56.0514 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sköldenborg 12"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7024,56.0516 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sköldenborg 16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7027,56.052 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sköldenborg 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skorpionen 6 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Skrinnaren 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2041,63.8379 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Släggskaftet 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2315,56.6812 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Smedbacken 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2251,56.6828 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Smedhagen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Smedjekullen 6,13 (såld 180331)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Smugglaren 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3212,63.8151 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sofiehem 2:156"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.2915,59.2703 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Solsidan 12:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9929,59.3611 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sonetten 1 (såld 140324)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sonetten 1 (såld 141215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2067,58.5705 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spärren 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6192,59.1948 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spettet 2 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spettet 3 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spettet 4 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.711,56.0416 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spindeln 5, 6 (såld 210901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7114,56.0418 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Spindeln 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6955,56.0564 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Städet 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6958,56.0568 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Städet 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Städet 4, 5, 6 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6953,56.0563 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Städet 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stadspredikanten 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1885,58.592 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stadsvakten 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stampen 15:18 (såld 130930)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Starrkärr 4:10"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.2252,56.6847 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stenmuren 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.6997,56.0577 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stiftelsen Norra 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stigbygeln 7 (såld 120424)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1941,58.5875 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stopet 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2792,63.8224 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stora Björnen 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2581,63.8186 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storjägaren 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storken 13 (såld 131209)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stormhatten 5 (såld 150129)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7043,59.9568 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storvreta 1:214"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storvreta 4:15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7108,59.96 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storvreta 55:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.704,59.949 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Storvreta 56:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Strandpiparen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Strängnäs 2:45-2:48  (såld 160913)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1657,58.5859 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Strömbacken 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stubbarp 37:5 (såld 140319)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Stubbarp 37:5 (såld 140515)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.1679,65.5883 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sundsgården 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6572,59.7986 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sunnersta 155:7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6436,59.803 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sunnersta 193:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sunnersta 63:1 (såld 140409)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6542,59.799 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sunnersta 67:35"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6466,59.7982 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sunnersta 79:31"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.3798,63.7129 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svalan 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svärdsliljan 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 14:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 2:6 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 2:7 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 29:4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 36:45"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svartbäcken 36:45 - boenden"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Sveten 1 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Svetsaren 5 & Åkaren 2 (såld 160930"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.7533,63.1521 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Symaskinen 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.4732,63.8356 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Täfteå 10:202"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7857,56.6621 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Talet 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0171,55.5942 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tavlan 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tegelbruket 3 (såld 131209)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7814,56.6627 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Termometern 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tidmätaren 1 (såld 170601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9321,59.4334 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tidmätaren 1 (såld 240429)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tidmätaren 2 (såld 170601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9325,59.4328 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tidmätaren 2 (såld 240301)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tidrymden 9 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tillgängligt bolagsnr och kst"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tingshuset 1, Kontorshus (såld)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tollare 2:48"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Topasen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Topasen 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1967,58.5917 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tornet 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1972,58.5921 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tornet 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1974,58.5919 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tornet 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Träkvista 4:29 (såld 180131)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2814,63.8238 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tranan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2814,63.8238 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tranan 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7027,56.0677 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Träsket 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Trasmattan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7289,60.025 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Trollbo 5:3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.683,63.1562 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tröskan 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Trossen 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tullinge 16:121 (såld 201117)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6195,59.8787 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tuna Backar 33:1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.933,55.5796 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tuppen 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.147,58.6085 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tuvan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.4524,59.5972 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Tvättstugan 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.702,56.0549 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ugglan 15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7018,56.0556 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ugglan 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7015,56.055 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Ugglan 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0194,55.5834 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Undret 1 (såld 230601)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Urberget 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1229,57.9592 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Utby 3:63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.1229,57.9592 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Utby 3:63"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2874,63.8216 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Uven 11"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7009,56.0549 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Uven 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Väghyveln 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.6814,63.175 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Väghyveln 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vägmätaren 1 (såld 161215)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7187,59.9001 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vaksala-Lunda 4:14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vaktchefen 2 (såld 210701)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5808,59.6065 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vaktposten 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2529,63.8284 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vaktposten 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7132,56.0257 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valhall 17"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7122,56.0256 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valhall 18"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vallen 3 (såld 171130)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.2171,63.8321 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vallen 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vallmon 1 (såld 200831)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3264,56.6604 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vallmon 19"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsätra 36:3 (såld 160202)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsätra 54:3 (såld 190201)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.6374,59.8324 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsätra 54:6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.839,59.6177 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:170"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8289,59.6126 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:172 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:179 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:182"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:184"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:29 (såld 161101)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:31 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:32 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:33 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:34 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:35 (såld 161031)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8292,59.6132 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:38"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.8276,59.6126 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Valsta 3:53 (såld 240531)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.4429,59.8609 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vänge-Täby 1:137"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.443,59.8582 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vänge-Täby 1:138"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.444,59.8548 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vänge-Täby 1:2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.0916,55.6051 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Värmereglaget 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.7275,56.0581 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Värnet 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Värnet 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vatnajökel 5 (såld 181123)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vattenborgen 3 (såld 130326)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vattenborgen 7 (såld 130326)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7333,60.0167 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vattholma 5:320"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.7405,60.0195 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vattholma 5:330"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1916,58.5923 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vattnet 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vedbo 99"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1718,58.5946 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vesslan 5"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1714,58.5944 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vesslan 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.1704,58.5944 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vesslan 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5077,59.6075 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vetterstorp 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.5509,59.0264 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vibacken 2"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3394,56.6642 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Videt 13 (såld 20230901)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 17.9205,59.5271 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vilunda 28:22"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vilunda 28:25"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.5159,59.6059 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vintergatan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Virket 1 (Avregistrerad fastighet)"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.1725,55.7145 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Virket 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 13.1763,55.7141 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Virket 6"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.343,63.8079 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vittran 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.962,56.812 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vivan 1"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9148,56.6853 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Vokalen 3"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.9126,56.6863 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Volontären 4"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.703,56.0374 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Württemberg 13"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.703,56.0374 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Württemberg 7"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.703,56.0374 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Württemberg 8"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.703,56.0374 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Württemberg 9"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.33,63.44 ]
+    },
+    "properties": {
+    "Fastighetsnamn":"Yllemattan 1 (såld 200831)"
+    }
+  }
+]
+}
